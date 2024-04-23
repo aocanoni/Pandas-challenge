@@ -6,6 +6,7 @@ The folder "pandas-challenge" includes all the necessary files for my assignment
 The 'PyCitySchools' folder is within 'pandas-challenge' and includes a 'Resources' folder and a 'PyCitySchools.ipynb' file which is my Jupyter notebook
 - 'Resources' includes a 'schools_complete.csv' file and a 'students_complete.csv' file which are the data files used for the assignment
 - The 'PyCitySchools.ipynb' file is where I completed all of my work- I started off of the originally provided 'starter_code' file and input all of my code and outputs.
+- The first section of the file is a written report on the data- there includes a summary and a few conclusions I made based on the data. 
 - There are some outputs within the 'School Summary' section of my 'PyCitySchools.ipynb' file that are not needed for the assignment, but I provided just for clarity's sake when debugging my code and ensuring that all of the steps I made when coding resulted in the correct DataFrame.
 - I included comments throughout the code as well, not including the ones provided by 'starter_code' which gave me direction during the assignment.
 
